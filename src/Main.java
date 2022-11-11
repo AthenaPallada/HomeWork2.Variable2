@@ -3,7 +3,7 @@ public class Main {
         // Задача 1
         System.out.println("Задача 1");
         int booksCount = 1000;
-        byte tigersCount = 10;
+        byte tigersCount = 13;
         short pensCount = 100;
         long boxesCount = 10000000L;
         float orangesWeight = 113.5f;
